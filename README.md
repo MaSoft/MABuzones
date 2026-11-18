@@ -37,7 +37,7 @@ Más información y el manual también en [masoft.es](https://masoft.es/descarga
 | | |
 |---|---|
 | Sistema | Windows 10 u 11 de 64 bits |
-| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; Python va dentro. |
+| Instalación | Instalador para tu usuario, sin permisos de administrador, o ejecutable único que se copia y se abre; no hace falta instalar nada más. |
 | Cuentas | Cualquier correo con IMAP o POP3; Gmail y Outlook.com también iniciando sesión en el navegador. |
 | Con el móvil | PC y móvil en la misma red y el puerto 48010 permitido en el cortafuegos para redes privadas. |
 
